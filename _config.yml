@@ -18,12 +18,12 @@ tagline:             Machine Learning Engineer
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  메모가 습관인 데이터쟁이입니다
+  습관이 없는 잡부입니다
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              seongyun byeon
-  email:             snugyun01@gmail.com
+  name:              woomin
+  email:             woomin@socar.kr
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
